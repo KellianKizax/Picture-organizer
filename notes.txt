@@ -1,0 +1,5 @@
+packaging app for windows
+
+install pyinstaller
+
+> pyinstaller --onefile --noconsole script.py
